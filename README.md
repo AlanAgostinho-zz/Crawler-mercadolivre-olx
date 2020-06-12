@@ -1,2 +1,2 @@
 # Crawler-mercadolivre-olx
-Crawler procurar produtos dentro dentro do mercado livre e OLX, de forma automatizada trazendo as informações em formato de dataframe. caso queira converferir.
+Crawler faz a procura de produtos dentro do Mercado Livre e OLX de forma automatizada, trazendo as informações em formato de dataframe. caso queira conferir fiquem a vontade!
